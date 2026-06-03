@@ -1,0 +1,3 @@
+Token banane se pehle About Me me jaakar Clear App Data & Cache kare.
+
+Fix IP button ko tabhi click kare jab aapko IP error aaye warna is button ka use na kare.

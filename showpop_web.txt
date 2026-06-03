@@ -1,0 +1,14 @@
+false####
+                   ### Web Login Important Updates
+
+WEB2, WEB3 aur WEB4 login ko ab sahi kar diya gaya hai. Aap IP check karke booking kar sakte hain. IP check karne ke liye aapko payment tak jana hoga.
+
+WEB3 aur WEB4 mein aap IP check with proxy bhi kar sakte hain aur WEB3 aur WEB4 login bhi aap slot se kar sakte hain. Bas itna dhyan dein ki jis IP se aap IP check kar rahe hain, us IP par IRCTC block na ho.
+
+Baar-baar same IRCTC ID login na karein. IP check ke liye kisi bhi IRCTC ID se check kar lein. General booking karte hue payment tak jayein.
+
+Jab aap WEB3 aur WEB4 ka IP check karenge, to ek popup open hoga. Wahan agar aapko proxy use karna hai to aap proxy bhi istemal kar sakte hain. Hum suggest karenge ki aap residential IP ka istemal karein.
+
+Better yahi hai ki har booking ke liye booking se pehle hi IP check kar lein.
+
+Next update mein aapko ek APK diya jayega jo web login ki IP check process ko poori tarah se automate karega. Yaani aapko koi IP check karne ki need nahi padegi. Sirf APK open karein, connect karein, aur web login ho jayega.

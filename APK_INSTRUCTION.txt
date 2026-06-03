@@ -1,0 +1,36 @@
+RailOne / App Token – Important Instructions
+
+Dear Users, niche diye gaye points ko dhyaan se padhiye agar aapko RailOne ya App login sahi tarike se karna hai to:
+
+Step 1: Sabse pehle hamare official groups join kar lijiye daily updates ke liye:
+Telegram: https://t.me/+J43mcXe63xllYmQ1
+WhatsApp: https://whatsapp.com/channel/0029Vb7gaz9CRs1uh5coWk2R
+
+**New Premium APK use karne ka proper tareeka (IRCTC aur RailOne dono ke liye same process):**
+
+Sabse pehle APK install karein. Agar **RailOne APK** hai to usko **SAI installer** ke through install karna compulsory hai.
+
+APK open karte hi aapko **Tesla logo** dikhega. Isi logo ke through aapko saari settings manage karni hain aur token send karna hota hai.
+
+Jab aap **Tesla logo par click** karenge, to wahan **3 options** show honge:
+
+**1) Tokens**
+Is option ke andar aapke saare generated tokens dikhai denge. Yahin par aapko apni **User ID enter** karni hoti hai aur **token send** karna hota hai.
+
+**2) Device ID**
+Is section me jaakar sabse pehle **Generate All** par click karein.
+Token generate karne se pehle hamesha *Generate All* karna zaroori hai, taaki APK aapki **device details automatically change** kar sake.
+Generate All karne ke baad APK ko **background se close** karein, phir **2–3 seconds baad dobara open** karein aur token generation start karein.
+
+?? **Important notice:**
+Har baar token banane se pehle **device details change** karna mandatory hai. Isse *unable to process* ya kisi bhi type ki error nahi aayegi aur token smoothly generate hoga.
+Device details change karne ke baad **APK restart zaroor karein**, taaki app nayi settings ke saath properly initialize ho sake.
+
+Baaki **token generation ka process bilkul same** rahega—payment page tak jaakar wahan se token send kar dena hai.
+
+**Jade form booking** ya **Jade pair login** ke liye hamesha device details aur network change karke hi token generate karein.
+
+Chahe **RailOne ka token ho ya Connect ka**, sabhi tokens ke through aap easily kisi bhi login me access le sakte hain.
+
+
+

@@ -1,0 +1,27 @@
+false####
+###APP/RAILONE login Important Updates####
+Kripya isko **bahot dhyan se read karein**, uske baad hi booking proceed karein.
+
+Main Form me aapko **Live Mode** ka ek button show hoga, jo by default **OFF** hota hai.
+Agar **Live Mode OFF** hai, to iska matlab software pehle ki tarah **Generated Store Token** se kaam karega.
+Is mode me aapko pehle ki tarah token banana hoga, chahe aap **APK**, **RailOne**, ya **IRCTC** se token banayein. Token banane ke baad us token ko apni **User ID / Tesla ID** par send karna hoga.
+
+**Bahot important baat:**
+Agar aapko token banana hai, to sabse pehle APK open karein. Uske baad **Tesla logo** par click karein. Waha par ek button hoga: **“Store Token on Generation”**.
+
+Is button ko **ON** karna zaroori hai. Agar aap isko ON nahi karenge, to aapka token store nahi hoga.
+
+Ye button by default **OFF** hota hai.
+**OFF ka matlab Live Token mode hota hai.**
+
+Isliye token generate karne se pehle **“Store Token on Generation”** button ko ON kar dein. Phir normally payment tak jaakar token banayein, aur token ko apni **Tesla ID** par send kar dein.
+
+Uske baad software me **Check Token** par jaakar token ko **Get** kar lein.
+
+Aap ek saath jitne chahein utne token bana sakte hain. Aap **IRCTC** aur **RailOne** dono ke token ek saath bana sakte hain, aur software me Get kar sakte hain. Software aapko show kar dega ki kitne token **RailOne** ke hain aur kitne token **IRCTC** ke hain.
+
+Ek baar me normally **7–8 tokens** banayein. Agar aur tokens banane hain, to pehle APK ka **Clear Data / Cache** karein, phir **Fix IP Error** par click karein, aur phir naye tokens bana lein. Uske baad un tokens ko apni **Tesla ID** par send kar dein. Last me software me jaakar tokens ko **Get** kar lein.
+
+Jo user **Live Token** use karna chahte hain, wo pehle **Main Form** se mode ko **LIVE** kar dein. Uske baad APK connect karke booking karein.
+
+Choice aapki hai — aap jo mode chahein use kar sakte hain. Bas options ko dhyan se aur sahi tarike se choose karein.

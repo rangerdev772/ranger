@@ -1,0 +1,22 @@
+RailOne and Irctc dono apk me auto token mode and store token mode dal dia gaya hai.
+At a Time aap ya RailOne ka auto token ya Irctc ka auto token ek hi use kar payenge.
+Ham filhal yehi suggest karenge aap jada se jada RailOne login kare kyuki RailOne me sucess rate jada hai.
+Ap RailOne se daily 2 form AC and 2Form sleeper asaani se book kar sakte hai bus apko same process follow karna hai connect karne ke liye.
+
+1st Pair App Login kare and second Pair Railone ya WEB3 login kare WEB3 ke liye pehle Check Ip EDGE karna hoga yeh aap daily bhi kar sakte hai.
+
+APK me sirf apni user ID enter karke “Connect” kar dena hai, baaki saara kaam software khud handle karega.
+APK me apni Tesla user ID daal kar connect par click karein. Jab status “Connected” show ho jaye, tab Ticket column me “Live Token Gen” open karke check kar lein. Uske baad pair login kar dein.
+Koi bhi token manually banane ki zarurat nahi hai — sabhi pairs direct login ho jayenge aur koi IP error nahi aayega.
+
+Kuch users ko confusion ho raha tha, isliye process ko aur easy bana diya gaya hai:
+
+1. APK open karein
+2. Sabse pehle Tesla logo par click karein
+3. Waha “Clear app data and cache” ka button milega — uspe click karein (APK automatically close ho jayega)
+4. APK dobara open karein
+5. Phir Tesla logo par click karein
+6. Apni TeslaX user ID enter karein aur connect kar dein
+
+Aap connect 55 AM par karein ya uske baad — poora process software khud handle karega.
+Bas ek baat ka dhyan rakhein: APK close na ho aur screen lock na ho, warna connection toot jayega.
